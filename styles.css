@@ -1,3 +1,17 @@
 header {
-background-color: #33FFD7;
+  background-color: #33FFD7;
+  border: 4px inset #7340B5;
+  font-family: verdana;
+  color: #1E073D;
+  text-align: center;
+}
+
+.main {
+margin-top: 10px;
+padding: 10px 0px 20px 0px;
+}
+
+body {
+background: #D1B8F4;
+margin: 0px;
 }
