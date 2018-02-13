@@ -7,12 +7,17 @@ header {
 }
 
 .main {
+border: 6px inset #7340B5;
 margin-top: 10px;
 padding: 10px 0px 20px 0px;
 }
 
+.main:hover {
+background-image: url("https://upload.wikimedia.org/wikipedia/commons/1/16/Appearance_of_sky_for_weather_forecast%2C_Dhaka%2C_Bangladesh.JPG");
+}
+
 body {
 background: #D1B8F4;
-text-align: center;
 margin: 0px;
+text-align: center;
 }
