@@ -1,0 +1,58 @@
+header {
+  background-color: #33FFD7;
+  border: 4px inset #7340B5;
+  font-family: verdana;
+  color: #1E073D;
+  text-align: center;
+}
+
+.main {
+border: 6px inset #7340B5;
+margin-top: 10px;
+margin-left: auto;
+margin-right: auto;
+width: 500px;
+font-family: arial;
+padding: 10px 0px 20px 0px;
+}
+
+.main:hover {
+background-image: url("https://www.publicdomainpictures.net/pictures/180000/velka/sun-clouds-blue-sky-14641020076aM.jpg");
+}
+
+body {
+text-align: center;
+background: #D1B8F4;
+margin: 0px;
+}
+
+table {
+    font-family: verdana;
+    margin: auto;
+    display: table;
+    border-spacing: 50px 0;
+}
+
+.right {
+    position: absolute;
+    margin-top: 50px;
+    right: 60px;
+    width: 350px;
+    background-color: lightyellow;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
+
+.left {
+    position: absolute;
+    margin-top: 50px;
+    left: 60px;
+    width: 350px;
+    background-color: lightblue;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
+
+border {
+  margin-top: 50px;
+}
