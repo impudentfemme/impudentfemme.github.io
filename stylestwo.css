@@ -13,9 +13,16 @@ background: #D1DEB4;
 padding-left: 30px;
 }
 
+}
+.text {
+  float: right;
+  width: 25%;
+}
+
 .main {
   padding-right: 60px;
   font-family: 'Comfortaa', cursive;
   width: 200px;
   text-align: right;
+  float: right;
 }
