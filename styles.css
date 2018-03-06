@@ -8,11 +8,11 @@ header {
 
 .main {
 border: 6px inset #7340B5;
+font-family: 'Raleway', sans-serif;
 margin-top: 10px;
 margin-left: auto;
 margin-right: auto;
 width: 500px;
-font-family: arial;
 padding: 10px 0px 20px 0px;
 }
 
@@ -22,12 +22,13 @@ background-image: url("https://www.publicdomainpictures.net/pictures/180000/velk
 
 body {
 text-align: center;
+font-family: 'Raleway', sans-serif;
 background: #D1B8F4;
 margin: 0px;
 }
 
 table {
-    font-family: verdana;
+    font-family: 'Raleway', sans-serif;
     margin: auto;
     display: table;
     border-spacing: 50px 0;
