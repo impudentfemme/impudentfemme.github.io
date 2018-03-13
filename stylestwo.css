@@ -1,16 +1,19 @@
 header {
   font-family: 'Questrial', sans-serif;
   color: #1E073D;
-  font-size: 25;
-  padding-top: 30px;
-  padding-right: 60px;
-  text-align: right;
 }
 
 body {
 font-family: 'Comfortaa', cursive;
 background: #D1DEB4;
 padding-left: 30px;
+}
+
+.dog {
+  font-size: 25;
+  padding-top: 30px;
+  padding-right: 60px;
+  text-align: right;
 }
 
 }
