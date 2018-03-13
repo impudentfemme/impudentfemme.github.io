@@ -1,6 +1,7 @@
 header {
   font-family: 'Questrial', sans-serif;
   color: #1E073D;
+  text-align: center;
 }
 
 body {
@@ -15,6 +16,15 @@ padding-left: 30px;
   padding-right: 60px;
   text-align: right;
 }
+.head {
+  font-size: 32;
+  padding-top: 30px;
+  padding-left: 60px;
+  padding-right: 60px;
+  text-align: center;
+  background-color: #D1DEB4;
+  border: 4px;
+}
 
 }
 .text {
@@ -28,4 +38,12 @@ padding-left: 30px;
   width: 200px;
   text-align: right;
   float: right;
+}
+
+.background {
+  background: url(https://img.wallpapersafari.com/desktop/1920/1080/6/20/EoBjdV.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
